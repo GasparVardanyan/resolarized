@@ -1,0 +1,15 @@
+# pack-refs with: peeled fully-peeled sorted 
+fe02ed49cc017cc93657bd6306a2624394611c69 refs/heads/master
+d6635f7198f83cd0c1f6066cdd9ba46e98fe5575 refs/heads/solarized-dark
+42f209ae1d09bc0581906ad5a8183fec40f7aeed refs/pull/12/head
+9074d228397db90b077caf31f9e73dda4f36d54c refs/pull/13/head
+6c6fe15311b966d68535f8ecc3fc07abdd0fe508 refs/pull/16/head
+af2a52dd79aeabd790be4120f979aa69c24262f2 refs/pull/18/head
+bf75148526f7ca06981bbb6a3f239ace1b841550 refs/pull/19/head
+2c8ebf41492f27d20f261682de00d9a1152dcc7c refs/pull/2/head
+8759a3eed082b4603beba53401bdf194e972f2d6 refs/pull/22/head
+e577c0836f2b670972ea18d8d6dc78e91c6accef refs/pull/22/merge
+005402d8b002d98a1ab0df18b426ae078c6557eb refs/pull/23/head
+a57855d3a1c14deb931663888df2f2a4cffe4696 refs/pull/23/merge
+91510d0f75ade851953d180ce36e5b788b285985 refs/pull/7/head
+a80d57014cd1e80ce0a551eecb49f6962f6eb2ca refs/pull/9/head

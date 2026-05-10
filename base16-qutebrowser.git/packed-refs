@@ -1,0 +1,27 @@
+# pack-refs with: peeled fully-peeled sorted 
+46836a18460f3d3ad18299e0923dd409963672a0 refs/heads/jamy/bugfix/readme-links
+b534985ec987a342e06259a52107d2e4901017bf refs/heads/main
+577094301eb618d7f4e61c3098bdbc2f678b6af4 refs/pull/11/head
+d1d63d1e2f16fd03cd88ec7006c0d885da06dcb8 refs/pull/13/head
+2074b0bf9d185d30b0c142bd8a54a2bd3a051658 refs/pull/16/head
+ea5f6f2e80bec4637a34f58040f6ef273b252a58 refs/pull/21/head
+46836a18460f3d3ad18299e0923dd409963672a0 refs/pull/22/head
+fa5e714783a2af9a0cf136103e53d71e834510be refs/pull/23/head
+ffe209d0011d3db29fab22ab0664242c1950ccac refs/pull/24/head
+9fc500210565d48e3a138aa3577b41ec5f15492d refs/pull/25/head
+8a2daeeb544bcf2185756320cf322cff5951f8df refs/pull/27/head
+d01de530bebb8efafce8f3424f1ce258730daf85 refs/pull/28/head
+3d71ea89adfb3ede9eee2f9764d4a59d26fe4f9b refs/pull/3/head
+d0f09ff6958cc426ba3db67cc7c646fd6ffbca40 refs/pull/4/head
+0674b4f1a6a4356d4430008022a139fad14f6d34 refs/pull/5/head
+7b682ddd4c37bab3b8b8440b51e1c88385588a34 refs/pull/9/head
+aa2b3e7066bfedf79ee40c054189e8c979b6f302 refs/remotes/dgmulf/master
+4e4a1c0589fca0a0feade27d3b7af4204718bd67 refs/tags/v1.0.0
+^c13be5affc982c81b7d40ff5bda756d207b0992c
+c83311c4e3eb8b7694783c4099cbdba7a3396e73 refs/tags/v1.1.0
+08070744efcf3c2d3a71a9dcbdb8e7dc6b4b5b54 refs/tags/v1.12.0-2
+aa72c8b7666c4a71d672ff92a1a6be075e8e1ed1 refs/tags/v1.2.0
+10456fdc5a17a9a0e29a54ecd5fb97fca886e051 refs/tags/v1.7.0-1
+c9af94e0b0ffc8895a2e4ab24e261b0841212aa6 refs/tags/v1.9.0-1
+4db34862f6f002b0eb8c5c9135238941c3ba37bd refs/tags/v12.0-1
+e47e7e03ccb8909a4751d3507cc3c3ad243f13c0 refs/tags/v2.3.0-1

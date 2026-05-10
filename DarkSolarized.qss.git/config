@@ -1,0 +1,9 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+[remote "origin"]
+	url = https://gist.github.com/Zren/e91ad5197f9d6b6d410f.git
+	tagOpt = --no-tags
+	fetch = +refs/*:refs/*
+	mirror = true
