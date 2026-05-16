@@ -4,4 +4,6 @@
 	bare = true
 [remote "origin"]
 	url = https://github.com/huyz/irssi-colors-solarized.git
-	fetch = +refs/heads/*:refs/remotes/origin/*
+	tagOpt = --no-tags
+	fetch = +refs/*:refs/*
+	mirror = true

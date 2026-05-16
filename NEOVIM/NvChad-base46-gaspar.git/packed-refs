@@ -1,0 +1,10 @@
+# pack-refs with: peeled fully-peeled sorted 
+25faf2b98288498abfe3658b285ce1fe88722b4b refs/heads/foldcolumn
+4c0fb198999027238653c96c1cf8f27d450e23e4 refs/heads/gaspar
+cf8327f92cbdf5e8f8f29755dc0949e5ddb02c60 refs/heads/integrations_gitsigns
+f412b1c26b59b7722f78ac84d21652e94c282075 refs/heads/integrations_neotest
+1d0a629344395f219ec892e31f4062829bf99834 refs/heads/integrations_vim-illuminate
+4505d09b7f16d7a03cb59ef2f9a6c5808543b0a2 refs/heads/test
+85de6cdb2d3c85d0aee53aea0569e73fdaf3df4e refs/heads/v2.0
+fde7a2cd54599e148d376f82980407c2d24b0fa2 refs/heads/v2.5
+884b990dcdbe07520a0892da6ba3e8d202b46337 refs/heads/v3.0
