@@ -1,5 +1,5 @@
 7a614049ac52a63c2feac5744addd6b320766483	not-for-merge	branch 'add-license-1' of https://github.com/RRethy/base16-nvim
-23e5128eb5f629c29532c24a1e733cbe019f05bb	not-for-merge	branch 'master' of https://github.com/RRethy/base16-nvim
+09944b3120451d2881dc8cfb13c85c11949f477d	not-for-merge	branch 'master' of https://github.com/RRethy/base16-nvim
 d4aa5371d2245aa594a19b55cd928b0b7cf1949a	not-for-merge	'refs/pull/100/head' of https://github.com/RRethy/base16-nvim
 78f21e9c04887d2371676c94b8c548504b31faa2	not-for-merge	'refs/pull/102/head' of https://github.com/RRethy/base16-nvim
 09c6219d1813e851aa26cb222102fa0507ebdab9	not-for-merge	'refs/pull/103/head' of https://github.com/RRethy/base16-nvim
@@ -10,14 +10,12 @@ aed04c03fb8efc5446b54d01c3005bedd3a4fb0a	not-for-merge	'refs/pull/107/head' of h
 a73dce51b11d892a6c5d107e57ab7a14d2cd83e5	not-for-merge	'refs/pull/11/head' of https://github.com/RRethy/base16-nvim
 4b154a1ee32612ec119f6834f1c1c0def424d0a7	not-for-merge	'refs/pull/110/head' of https://github.com/RRethy/base16-nvim
 62610a80c92146de225f6dd229c26d680189674c	not-for-merge	'refs/pull/114/head' of https://github.com/RRethy/base16-nvim
-6661dd49d399debd0762d355013b9a15dce77804	not-for-merge	'refs/pull/114/merge' of https://github.com/RRethy/base16-nvim
 477ed44d6ba09063837719842965d5625da161ff	not-for-merge	'refs/pull/115/head' of https://github.com/RRethy/base16-nvim
-8de6db36d042ff1188d2a5cca047329c91217123	not-for-merge	'refs/pull/115/merge' of https://github.com/RRethy/base16-nvim
 b65d084da8994db832a1e9fe5d9c5502864fefd3	not-for-merge	'refs/pull/117/head' of https://github.com/RRethy/base16-nvim
-e5bcdbc9687fd72023fc4beb75313b8d7fab6ddf	not-for-merge	'refs/pull/117/merge' of https://github.com/RRethy/base16-nvim
 c7a518caeea44d1499829932fe94131327f97cb0	not-for-merge	'refs/pull/118/head' of https://github.com/RRethy/base16-nvim
-c805a9d9e3b032de33adf23520eddf4d5f16af78	not-for-merge	'refs/pull/118/merge' of https://github.com/RRethy/base16-nvim
 f5c351d9e7ab24f2215689f1b4b503ca01790c09	not-for-merge	'refs/pull/12/head' of https://github.com/RRethy/base16-nvim
+d83386092ef57cc82f1ec2959695d0c57932bcf6	not-for-merge	'refs/pull/121/head' of https://github.com/RRethy/base16-nvim
+ad4e0bdcb83eb4389bd3a79a2f5e8b320d45202f	not-for-merge	'refs/pull/121/merge' of https://github.com/RRethy/base16-nvim
 e3ffeccd3dd58e025243d5073608b00e2f451769	not-for-merge	'refs/pull/13/head' of https://github.com/RRethy/base16-nvim
 bd83dfa6e563753451a07ba8df3417f15c268125	not-for-merge	'refs/pull/2/head' of https://github.com/RRethy/base16-nvim
 95aa5bc16e5094d9f267abc7236faefb917c9179	not-for-merge	'refs/pull/21/head' of https://github.com/RRethy/base16-nvim

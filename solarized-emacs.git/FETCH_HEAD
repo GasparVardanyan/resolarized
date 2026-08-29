@@ -1,4 +1,7 @@
-0972a0f1471ed67211b7c8918a3c049380050d7b	not-for-merge	branch 'master' of https://github.com/bbatsov/solarized-emacs
+9beb83fe39fa22a21f0963b5c1c0e94933d3424b	not-for-merge	branch 'add-changelog' of https://github.com/bbatsov/solarized-emacs
+e177cfdb851ca9c0b5b539a78736426e92febfd9	not-for-merge	branch 'expand-face-coverage' of https://github.com/bbatsov/solarized-emacs
+7a556ea65bacacdd8ebcb37680cece12c53f28b6	not-for-merge	branch 'fix-cursor-over-region' of https://github.com/bbatsov/solarized-emacs
+1443d6dce378ad2d65a8a8c45d5279481a79dfab	not-for-merge	branch 'master' of https://github.com/bbatsov/solarized-emacs
 6aedeb8344e5f40341d54792adc41e44df066128	not-for-merge	branch 'solarized-config' of https://github.com/bbatsov/solarized-emacs
 5e34f6917e44cf535584d37e9697cdd34b1eac2b	not-for-merge	'refs/pull/100/head' of https://github.com/bbatsov/solarized-emacs
 f8addf35b81ab5965257bb686ab8d8cf2ec8e544	not-for-merge	'refs/pull/102/head' of https://github.com/bbatsov/solarized-emacs
@@ -275,8 +278,14 @@ a56aa36d39decd6910577e7436d168eebd9aecfc	not-for-merge	'refs/pull/442/head' of h
 c86a1a15b1908e1568c89e728ade79dc6c7e02d0	not-for-merge	'refs/pull/452/head' of https://github.com/bbatsov/solarized-emacs
 2d9e8c2e42721d2e265de7a6f2cc8fd7cb1dbaa4	not-for-merge	'refs/pull/453/head' of https://github.com/bbatsov/solarized-emacs
 8d543a110962042ffe85ccaec577f1839acec48b	not-for-merge	'refs/pull/456/head' of https://github.com/bbatsov/solarized-emacs
+71696a325bee4bd9548e3ac370184c7e3636bc31	not-for-merge	'refs/pull/459/head' of https://github.com/bbatsov/solarized-emacs
 f5d0220ffb7cdc2b0a1b1d1872a3a0ab933dbc38	not-for-merge	'refs/pull/46/head' of https://github.com/bbatsov/solarized-emacs
 515f6322a87135780d5049d487be22f576c06787	not-for-merge	'refs/pull/46/merge' of https://github.com/bbatsov/solarized-emacs
+8a9633cdad31a3afe408c5eaa521b9b476b040d0	not-for-merge	'refs/pull/460/head' of https://github.com/bbatsov/solarized-emacs
+23f5019ae9b65a0ae07ba8bb5545a3dd32bfce75	not-for-merge	'refs/pull/461/head' of https://github.com/bbatsov/solarized-emacs
+f2d873981b0c49a1cb5dad3403bbeb72f99a7083	not-for-merge	'refs/pull/461/merge' of https://github.com/bbatsov/solarized-emacs
+e177cfdb851ca9c0b5b539a78736426e92febfd9	not-for-merge	'refs/pull/462/head' of https://github.com/bbatsov/solarized-emacs
+9beb83fe39fa22a21f0963b5c1c0e94933d3424b	not-for-merge	'refs/pull/463/head' of https://github.com/bbatsov/solarized-emacs
 6bcf968a1e9a06fe8783940c5744f75729cf8691	not-for-merge	'refs/pull/49/head' of https://github.com/bbatsov/solarized-emacs
 fd95cae40c209bf357dfe315ede553402fc267aa	not-for-merge	'refs/pull/49/merge' of https://github.com/bbatsov/solarized-emacs
 97014e22c467640ad2e2a8d9384216582a06f3d5	not-for-merge	'refs/pull/5/head' of https://github.com/bbatsov/solarized-emacs
@@ -346,3 +355,4 @@ c42a932e5c467c1ce12c42276d35bfb8f666e96d	not-for-merge	tag 'v1.3.0' of https://g
 922b5956a9e2e474f1595bad7b2b35f148b4df3f	not-for-merge	tag 'v2.0.4' of https://github.com/bbatsov/solarized-emacs
 5d136736f76c85a83fef737d10ecd32af4d493fd	not-for-merge	tag 'v2.0.5' of https://github.com/bbatsov/solarized-emacs
 0972a0f1471ed67211b7c8918a3c049380050d7b	not-for-merge	tag 'v2.1.0' of https://github.com/bbatsov/solarized-emacs
+1443d6dce378ad2d65a8a8c45d5279481a79dfab	not-for-merge	tag 'v2.2.0' of https://github.com/bbatsov/solarized-emacs
